@@ -1,5 +1,5 @@
 # Planning Stopped Us from Making Search Worse
-
+#
 **Date**: 2026-08-12 18:44
 **Severity**: High
 **Component**: Search, datasets, agent guidance, UI taxonomy
